@@ -1,2 +1,2 @@
-# ProjectBankList
-Practice project 
+# MyProjects
+Practice projects 
